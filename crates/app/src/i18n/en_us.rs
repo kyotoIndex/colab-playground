@@ -1263,4 +1263,5 @@ pub(super) const MESSAGES: Messages = &[
         PROV_RATE_PUBLISHED,
         "A figure other users published. The app's own measurement replaces it.",
     ),
+    (STATUS_EXTRA_TOOLTIP, "{sessions} · {rate}"),
 ];
